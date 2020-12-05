@@ -25,6 +25,10 @@ Reuriemnt for Change before test:-
 	
 	-Set Static ip,subnet and gateway as per the your netwrok.
 
+For Send Date from the local network:-
+
+	- Android Application UDP Sender/Recevier
+	
 Check Demo and enjoy.
 
 Looking forward to your suggestions.

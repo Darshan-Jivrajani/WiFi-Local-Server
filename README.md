@@ -18,8 +18,11 @@ In this demo, I tested with 6(5 Slave + 1 Master) ESP32. It perfectly works and 
 
 
 Reuriemnt for Change before test:-
+
 	-Set your ssid and password.
-	-Set MQTT server(defult set:- "broker.mqtt-dashboard.com");
+	
+	-Set MQTT server(defult set:- "broker.mqtt-dashboard.com").
+	
 	-Set Static ip,subnet and gateway as per the your netwrok.
 
 Check Demo and enjoy.
